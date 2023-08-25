@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjmess01
-- 👀 I’m interested in webscraping, narcotics trafficking, and learning more about computer science.
+- 👀 I’m interested in webscraping, web development, and learning more about computer science.
 - 🌱 I’m currently learning c++, c, python
 - 📫 How to reach me - my email: cjmess01@gmail.com
 
