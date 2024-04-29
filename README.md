@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @cjmess01
-- 👀 I’m interested in webscraping, web development, and learning more about computer science.
-- 🌱 I’m currently learning c++, c, python
-- 📫 How to reach me - my email: cjmess01@gmail.com
+I’m @cjmess01
+My github is a big mix of different things that I am working on.
+There is some python code for a linux-based microcomputer oscilliscope I am working with.
+There are also some school projects that I am working on. 
+
 
 <!---
 cjmess01/cjmess01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
